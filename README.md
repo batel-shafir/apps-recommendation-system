@@ -11,10 +11,12 @@ I used Material UI.
 
 
 ## How to run the project?
-* In the project directory, run:
+
+In the project directory, run:
 ### npm start 
 to start the server on port 5000.
-* cd into the client directory, run:
+
+cd into the client directory, run:
 ### npm start 
 to start the client on http://localhost:3000.
 
