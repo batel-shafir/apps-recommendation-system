@@ -1,0 +1,23 @@
+.home-container{
+    text-align: center;  
+}
+
+.title{
+    padding-top: 15%;
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.sub-title{
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 600;
+
+}
+
+.user-name{
+    text-transform: capitalize;
+}
